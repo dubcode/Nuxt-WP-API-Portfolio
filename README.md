@@ -34,3 +34,8 @@ Go to http://localhost:3000/” to view your app.
 **PRODUCTION BUILD**
 
 npm run generate
+
+**DEPLOY**
+
+Upload the contents of the /dist/ folder to your server.
+
