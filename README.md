@@ -3,7 +3,7 @@
 See the live version here https://danielwakefield.co.uk
 
 This is the Front-End for a Vue.js / Nuxt.js portfolio that pulls data from a customised WP API using Axios.js.
-The production build outputs staic pages ready for Server Side Rendering.
+The production build outputs a Static Server Side Rendered PWA.
 
 **CLONE THIS REPO**
 
