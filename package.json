@@ -1,0 +1,25 @@
+{
+  "name": "ultr4",
+  "version": "1.0.0",
+  "description": "Ultra Brands | Web Designer & Developer Cheshire",
+  "author": "Dan Wakefield",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^2.6.0",
+    "nuxt": "^2.0.0",
+    "nuxt-webfontloader": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4",
+    "nodemon": "^1.18.9"
+  }
+}

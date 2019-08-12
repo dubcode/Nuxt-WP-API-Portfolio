@@ -1,0 +1,30 @@
+/*reset*/
+html {box-sizing: border-box; overflow-y:scroll;}
+*, *:before, *:after {box-sizing: inherit; }
+
+body{background: #fff; color: #000; font-family: Arial, Helvetica, sans-serif; font-weight:300;font-size:80%; margin:0;opacity:1;padding:0;transition:1s opacity;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-text-size-adjust:100%; }
+a:focus,button:focus,input:focus,textarea:focus,:focus {outline: none;}
+h1,h2,h3,h4,h5,h6, ul, li, p{margin: 0; padding: 0; -webkit-margin-before: 0;-webkit-margin-after: 0;-webkit-margin-start: 0px;-webkit-margin-end: 0px;}
+
+
+/*rows + columns*/
+.row{display: block; float: left; width: 100%; max-width: 2560px; overflow: hidden; position: relative;}
+.row:after,
+.clear:after {content: '';display: block;clear: both;}
+.ctr{margin: 0 auto; width: 94%; max-width: 1440px;}
+.fs{min-height: 100vh;}
+.flex{text-align: center; display: flex; align-items: center; justify-content: center;}
+.top-pad-row{background: #111111; display: block; float: left; min-height: 100vh;width: 100%; padding: 12em 0 0 0;}
+
+/*scroll bars*/
+::-webkit-scrollbar-track{background: #ccc;}
+::-webkit-scrollbar{ width: 10px;}
+::-webkit-scrollbar-thumb{background-color: #999;}
+
+.page-enter-active, .page-leave-active {
+    transition: opacity .5s
+  }
+  .page-enter, .page-leave-active {
+    opacity: 0
+  }
+
