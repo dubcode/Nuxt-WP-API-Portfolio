@@ -1,6 +1,9 @@
 ## NUXT WP API Portfolio
 
-See the live version here https://danielwakefield.co.uk
+Live Demo - https://danielwakefield.co.uk
+Code Sandbox - https://codesandbox.io/s/nuxt-wp-api-portfolio-uqgtd
+Git Repo - https://github.com/dubcode/Nuxt-WP-API-Portfolio.git
+
 
 This is the Front-End for a Vue.js / Nuxt.js portfolio that pulls data from a customised WP API using Axios.js.
 The production build outputs a Static Server Side Rendered PWA.
