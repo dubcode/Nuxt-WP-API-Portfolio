@@ -1,7 +1,9 @@
 ## NUXT WP API Portfolio
 
 Live Demo - https://danielwakefield.co.uk
+
 Code Sandbox - https://codesandbox.io/s/nuxt-wp-api-portfolio-uqgtd
+
 Git Repo - https://github.com/dubcode/Nuxt-WP-API-Portfolio.git
 
 
